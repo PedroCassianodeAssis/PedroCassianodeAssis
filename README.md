@@ -1,4 +1,4 @@
-## Olá Mundo! Me chamo Pedro Assis e sou um estudante de programação! 👋
+## Olá Mundo! Me chamo Pedro Assis! 👋
 
 <!--
 **PedroCassianodeAssis/PedroCassianodeAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
