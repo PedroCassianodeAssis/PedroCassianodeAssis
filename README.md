@@ -44,6 +44,8 @@ Olá Mundo! Me chamo Pedro Assis, tenho 18 anos e sou de São Paulo. Sou técnic
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
