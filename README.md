@@ -46,7 +46,7 @@ Olá Mundo! Me chamo Pedro Assis, tenho 18 anos e sou de São Paulo. Sou técnic
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c#/c#-original.svg" 
+    src="https://camo.githubusercontent.com/d062d59fe5df3044548f176c99f52d6866ac70eea1104374c59b75cbdd2e98e5/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" 
 />
 
 <br/>
